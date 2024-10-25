@@ -8,6 +8,10 @@ GitHub provides a [REST API](https://docs.github.com/en/rest) and a [GraphQL API
 
 [common-labels.json](https://w3c.github.io/common-labels.json) contains the list of horizontal repositories, used for review requests and horizontal issues tracking.
 
+@@WHATWG
+
+@@IETF
+
 @@WPT
 
 @@ASH-NAZG
